@@ -1,4 +1,4 @@
-FROM openshift/jenkins-slave-maven-centos7
+FROM centos:7
 
 MAINTAINER Spencer Sanchez <isc.spencer@gmail.com>
 
